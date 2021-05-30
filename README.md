@@ -85,3 +85,4 @@ Install npm util packages:
   * Deploy a copy to Azure
   * Notify your mentor using the industryconnect.io internship portal
 
+# talent-competition
